@@ -1,0 +1,16 @@
+logo_image: '/images/bookstagram_han_logo.img'
+
+menu__settings:
+  menu__items:
+    - title: 'home'
+      url: '/'
+    - title: 'books'
+      submenu:
+        - title: 'book stats'
+          url: '/books/stats/'
+        - title: 'TBR'
+          url: '/books/TBR/'
+        - title: 'book quotes'
+          url: '/books/quotes/'
+    - title: 'media and content'
+      url: '/media/'
